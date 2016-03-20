@@ -1,7 +1,7 @@
 ## C++ Bookshop
 
 ### Description
-Through this C++ Book Shop prototype, users can consult a catalogue of books, e-books and cds, add them to their shopping carts and purchase them.
+Through this C++ Bookshop prototype, users can consult a catalogue of books, e-books and cds, add them to their shopping carts and purchase them.
 User's details and one or more of their credit cards details will be sroted.
 When an user do a checkout a new order is created and the stock is updated.
 Also, it is possible to view a list with all the orders placed
@@ -23,7 +23,7 @@ You must have instaled and congifured GCC (the GNU Compiler Collection).
 1. Clone the repository or download the zip file and extract it.
 2. Open a Command Prompt.
 
-	2.1. Go to the directory **“BookShop/P4”** and type the following commands:
+	2.1. Go to the directory **“Bookshop/P4”** and type the following commands:
 	
 	2.2. `make`
 	
