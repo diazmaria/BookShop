@@ -1,4 +1,4 @@
-## C++ Book Shop
+## C++ Bookshop
 
 ### Description
 Through this C++ Book Shop prototype, users can consult a catalogue of books, e-books and cds, add them to their shopping carts and purchase them.
