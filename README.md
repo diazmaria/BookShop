@@ -34,4 +34,4 @@ You must have instaled and congifured GCC (the GNU Compiler Collection).
 3. You can use `make clean` to delete the executable files and all the object files.
 
 ### Demo
-![demo](http://i1030.photobucket.com/albums/y369/MariaPhotoB/BookShop_zps7frfia1a.gif)
+![demo](https://media.giphy.com/media/l1J9Dp1c4IJCOJChi/giphy.gif)
